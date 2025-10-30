@@ -1,5 +1,6 @@
 <h1>Projeto: Álcool ou gasolina</h1>
 
+![App em funcionamento](imagens/alcool-ou-gasolina.gif)
 
 <h2>Descrição do projeto</h2>
 
